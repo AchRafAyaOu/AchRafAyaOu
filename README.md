@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/snak.svg" alt="Header Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Achraf Ayaou</h1>
 
 <p align="center">
@@ -9,6 +13,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AchRafAyaOu&label=Profile%20views&color=58a6ff&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/AchRafAyaOu?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/logo.svg" alt="AA Logo" width="120" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Section Divider" width="100%" />
 </p>
 
 ---
@@ -25,6 +37,10 @@ I'm interested in digital technology, web development, AI, and research — expl
 - 🎨 **UI/UX & Digital Experiences** - Crafting intuitive interfaces
 - 🔬 **Technology & Digital Research** - Deep dives into tech trends
 - 📚 **Language Learning & Educational Projects** - EdTech solutions (English Lessons Platform)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Section Divider" width="100%" />
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -50,17 +66,13 @@ I'm interested in digital technology, web development, AI, and research — expl
 | :--- | :--- | :--- | :--- |
 | **📚 English Lessons** | Structured English lessons for beginners, organized by level - Designed for integration with educational websites | HTML, CSS, JS, CDN | [Repo](https://github.com/achrafayaou/english-lessons) |
 | **📝 Blogarch System** | Originally built on Blogger, evolved into scalable frontend with GitHub, CDN assets & PWA technologies | Blogger, GitHub, JS, PWA | [Blog](https://achrafayaou.blogspot.com/) |
-| **🤖 AI Tools Dashboard** |  (قيد التطوير) | React, OpenAI API | Coming Soon |
+| **🤖 AI Tools Dashboard** | (قيد التطوير) | React, OpenAI API | Coming Soon |
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchRafAyaOu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchRafAyaOu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchRafAyaOu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -74,10 +86,3 @@ I'm interested in digital technology, web development, AI, and research — expl
   <a href="https://x.com/AchrafAyaou"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://achrafayaou.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/snak.svg" alt="Snake animation" />
-</p>
-
-<p align="center">⚡ "Building digital experiences that matter" — Achraf Ayaou ⚡</p>
