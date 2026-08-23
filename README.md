@@ -50,7 +50,7 @@ I'm interested in digital technology, web development, AI, and research — expl
 | :--- | :--- | :--- | :--- |
 | **📚 English Lessons** | Structured English lessons for beginners, organized by level - Designed for integration with educational websites | HTML, CSS, JS, CDN | [Repo](https://github.com/achrafayaou/english-lessons) |
 | **📝 Blogarch System** | Originally built on Blogger, evolved into scalable frontend with GitHub, CDN assets & PWA technologies | Blogger, GitHub, JS, PWA | [Blog](https://achrafayaou.blogspot.com/) |
-| **🤖 AI Tools Dashboard** | لوحة تحكم لأدوات الذكاء الاصطناعي (قيد التطوير) | React, OpenAI API | Coming Soon |
+| **🤖 AI Tools Dashboard** |  (قيد التطوير) | React, OpenAI API | Coming Soon |
 
 ### 📊 GitHub Stats
 
@@ -77,7 +77,7 @@ I'm interested in digital technology, web development, AI, and research — expl
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/snak.svg" alt="Snake animation" />
 </p>
 
 <p align="center">⚡ "Building digital experiences that matter" — Achraf Ayaou ⚡</p>
