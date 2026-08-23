@@ -16,14 +16,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/logo.svg" alt="AA Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/logo.svg" alt="AA Logo" width="110" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Section Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Divider" width="100%" />
 </p>
-
----
 
 ### 👨‍💻 About Me
 I'm interested in digital technology, web development, AI, and research — exploring how technology can be used to build **useful and meaningful digital experiences**.
@@ -39,7 +37,7 @@ I'm interested in digital technology, web development, AI, and research — expl
 - 📚 **Language Learning & Educational Projects** - EdTech solutions (English Lessons Platform)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Section Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Divider" width="100%" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -68,15 +66,16 @@ I'm interested in digital technology, web development, AI, and research — expl
 | **📝 Blogarch System** | Originally built on Blogger, evolved into scalable frontend with GitHub, CDN assets & PWA technologies | Blogger, GitHub, JS, PWA | [Blog](https://achrafayaou.blogspot.com/) |
 | **🤖 AI Tools Dashboard** | (قيد التطوير) | React, OpenAI API | Coming Soon |
 
-### 📊 GitHub Stats
+### ⚡ Focus
+
+> **Building digital experiences that matter** — Combining clean code, thoughtful design, and educational value.
+
+- 🔭 Working on EdTech platforms for English learning
+- 🌱 Learning advanced AI integration
+- 👯 Looking to collaborate on open educational tools
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchRafAyaOu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchRafAyaOu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AchRafAyaOu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Divider" width="100%" />
 </p>
 
 ### 📫 Connect with Me
