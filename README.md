@@ -66,13 +66,9 @@ I'm interested in digital technology, web development, AI, and research — expl
 | **📝 Blogarch System** | Originally built on Blogger, evolved into scalable frontend with GitHub, CDN assets & PWA technologies | Blogger, GitHub, JS, PWA | [Blog](https://achrafayaou.blogspot.com/) |
 | **🤖 AI Tools Dashboard** | (قيد التطوير) | React, OpenAI API | Coming Soon |
 
-### ⚡ Focus
-
-> **Building digital experiences that matter** — Combining clean code, thoughtful design, and educational value.
-
-- 🔭 Working on EdTech platforms for English learning
-- 🌱 Learning advanced AI integration
-- 👯 Looking to collaborate on open educational tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/focus.svg" alt="My Focus" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AchRafAyaOu/AchRafAyaOu/refs/heads/main/dev.svg" alt="Divider" width="100%" />
